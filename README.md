@@ -2,6 +2,7 @@
 
 This repository contains dataset and code files.
 
+
 The dataset files are:
 
 a. kronodroid-combined-2008-to-2020.zip: this is an enhanced balanced subset of the datasets https://github.com/aleguma/kronodroid/tree/main/real_device and https://github.com/semw/kronodroid_improved_hybrid_detection_v2. It is used in RO-1.
@@ -14,14 +15,28 @@ d. Test-set-2020.csv: this contains samples from 2020 only. It is used as test s
 
 
 
+There are 12 code files are named according to the research objective, model used, and setup (CPU and GPU).
+a. RO-1-LR-CPU.py
 
-The code files are:
+b. RO-1-LR-GPU.py
 
-a. LR.py
+c. RO-1-SGD-CPU.py
 
-b. RF.py
+d. RO-1-SGD-GPU.py
 
-c. NN.py
+e. RO-1-RF-CPU.py
 
-d. SGD.py
+f. RO-1-RF-GPU.py
+
+g. RO-1-NN-CPU.py
+
+h. RO-1-NN-GPU.py
+
+i. RO-2-LR.py
+
+j. RO-2-SGD.py
+
+k. RO-2-RF.py
+
+l. RO-2-NN.py
 
