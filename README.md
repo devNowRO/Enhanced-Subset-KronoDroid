@@ -1,9 +1,9 @@
 # Enhanced-Subset-KronoDriod
 
-This repository contains dataset and code files.
+**This repository contains dataset files and code files.**
 
 
-The dataset files are:
+The three dataset files are:
 
 a. kronodroid-combined-2008-to-2020.zip: this is an enhanced balanced subset of the datasets https://github.com/aleguma/kronodroid/tree/main/real_device and https://github.com/semw/kronodroid_improved_hybrid_detection_v2. It is used in RO-1.
 
@@ -15,7 +15,8 @@ d. Test-set-2020.csv: this contains samples from 2020 only. It is used as test s
 
 
 
-There are 12 code files are named according to the research objective, model used, and setup (CPU and GPU).
+The twelve code files are named according to the research objective, model used, and setup (CPU and GPU):
+
 a. RO-1-LR-CPU.py
 
 b. RO-1-LR-GPU.py
