@@ -1,3 +1,5 @@
+# Code written as part of NFRP-22-41-55 (1st March 2023 - 30 April 2024)
+# =======================================================================
 
 # !nvidia-smi
 # This get the RAPIDS-Colab install files and test check your GPU.  Run this and the next cell only.
