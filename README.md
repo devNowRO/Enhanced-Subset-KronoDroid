@@ -41,3 +41,5 @@ k. RO-2-RF.py
 
 l. RO-2-NN.py
 
+
+There is one EXCEL file that lists the static and dynamic features selected by each model as shown in Table 6 of the paper.
