@@ -1,6 +1,6 @@
 # Enhanced-Subset-KronoDriod
 
-**This repository contains dataset files and code files.**
+**This repository contains dataset files, code files, and a features file.**
 
 
 The three dataset files are:
